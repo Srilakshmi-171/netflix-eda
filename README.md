@@ -118,8 +118,8 @@ clean analysis and clear visual storytelling.
 
 📬 Open for **freelance projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](linkedin.com/in/srilakshmi-gopavarapu-904a032bb)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:SRILAKSHMIGOPAVARAPU@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/srilakshmi-gopavarapu-904a032bb/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:srilakshmigopavarapu@gmail.com)
 
 ---
 
