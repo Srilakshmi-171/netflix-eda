@@ -111,15 +111,15 @@ jupyter notebook netflix_analysis.ipynb
 
 ## 👤 About Me
 
-**[YOUR NAME]** — Data Analyst | Python • Pandas • EDA
+**GOPAVARAPU VENKATA SRILAKSHMI** — Data Analyst | Python • Pandas • EDA
 
 I help businesses make sense of their data through
 clean analysis and clear visual storytelling.
 
 📬 Open for **freelance projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](linkedin.com/in/srilakshmi-gopavarapu-904a032bb)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:SRILAKSHMIGOPAVARAPU@EMAIL.COM)
 
 ---
 
